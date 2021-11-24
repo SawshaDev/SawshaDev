@@ -4,13 +4,9 @@ Hey there! im callimarie, im a web develepor and a small discord bot maker. im w
 <br>
 
 
-
 <details>
-  <summary>My github stats!</summary>
+  <summary>:zap: GitHub Stats</summary>
   <br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callimarieyt)](https://github.com/callimarieyt)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callimarieyt&layout=compact)](https://github.com/callimarieyt)
-/>
+  <img align="left" alt="CodeWithSwastik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=callimarieyt&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
- 
