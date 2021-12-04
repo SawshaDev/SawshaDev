@@ -8,7 +8,7 @@ Hi! I'm callimarie! im some kid who loves to code and play osu :)
 <br>
 - css
 <br>
-A bit of basic JS
+- basic JS
 
 # languages im learning!
 <br>
