@@ -2,11 +2,11 @@ Hi! I'm callimarie! im some kid who loves to code and play osu :)
 
 # languages i know fluently!
 <br>
-- Python
+- PYTHON
 <br>
-- Html
+- HTML
 <br>
-- css
+- CSS
 <br>
 - basic JS
 
