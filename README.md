@@ -2,14 +2,23 @@ Hi! I'm callimarie! im some kid who loves to code and play osu :)
 
 # languages i know fluently!
 
-I know Python, a bit of js, html, and css. 
+- Python
+<br>
+- Html
+<br>
+- css
+<br>
+A bit of basic JS
 
 # languages im learning!
 
-. C,C#
-. Lua
-. Javascript (advance js)
-. Rust
+- C,C#
+<br>
+- Lua
+<br>
+- Javascript (advance js)
+<br>
+- Rust
 
 
 <br>
