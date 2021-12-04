@@ -1,7 +1,7 @@
 Hi! I'm callimarie! im some kid who loves to code and play osu :)
 
 # languages i know fluently!
-
+<br>
 - Python
 <br>
 - Html
@@ -11,7 +11,7 @@ Hi! I'm callimarie! im some kid who loves to code and play osu :)
 A bit of basic JS
 
 # languages im learning!
-
+<br>
 - C,C#
 <br>
 - Lua
@@ -19,7 +19,7 @@ A bit of basic JS
 - Javascript (advance js)
 <br>
 - Rust
-
+<br>
 
 <br>
 
