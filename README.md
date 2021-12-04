@@ -1,4 +1,17 @@
-Hey there! im callimarie, im a web develepor and a small discord bot maker. im working on my own website which goes by https://callimarie.xyz!
+Hi! I'm callimarie! im some kid who loves to code and play osu :)
+
+# languages i know fluently!
+
+I know Python, a bit of js, html, and css. 
+
+# languages im learning!
+
+. C,C#
+. Lua
+. Javascript (advance js)
+. Rust
+
+
 <br>
 
 <br>
