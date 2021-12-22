@@ -4,6 +4,7 @@
 <summary>Fun/chill commands</summary>
   <strong>>howgay</strong>: Checks how gay you are. aka 100% gay
   <br>
+  <br>
   <strong>>howsus</strong>: Checks how sus you are. god kill me
   <br>
   <br>
