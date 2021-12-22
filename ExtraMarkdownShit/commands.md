@@ -18,9 +18,14 @@
   <strong>>unmute</strong>: mute's autstic brother aka unmutes someone 
   <br>
   <br>
-  thats all for moderation. for now.  
-  
-  
+  <strong>>ban</strong>: bans someone
+  <br>
+  <br>
+  <strong>>unban</strong>: unbans
+  <br>
+  <br>
+  <strong>>purge</strong>: mass deletes messages 
+
 </details>
 
 <details>
@@ -31,7 +36,14 @@
   <strong>>userinfo</strong>: Fetches User Info
   <br>
   <br>
-  
-  
+  <strong>>help</strong>: Displays this webpage
+  <br>
+  <br>
+  <strong>>ping</strong>: Shows Bot Latency
+  <br>
+  <br>
+  <strong>>server</strong>: Shows num count of servers bot is in
+  <br>
+  <br>
   
 </details>  
