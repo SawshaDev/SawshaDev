@@ -32,5 +32,5 @@ Hello there! I am sawsha! the maker of skye bot!
   <summary>:zap: GitHub Stats</summary>
   <br>
   <img align="left" alt="SawshaDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SawshaDev&show_icons=true&hide_border=true&theme=radical" />
-  <img align="left" alt="SawshaDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callimarieyt&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="SawshaDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawshaDev&show_icons=true&hide_border=true&theme=radical" />
 </details>
