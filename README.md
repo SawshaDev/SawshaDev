@@ -1,4 +1,4 @@
-Hi! I'm callimarie! im some kid who loves to code and play osu :)
+Hello there! I am sawsha! the maker of skye bot!
 
 ![](https://discord.c99.nl/widget/theme-3/894794517079793704.png)
 
