@@ -1,6 +1,6 @@
-Hello there! I am sawsha! the maker of skye bot!
+Sawsha
 
-![](https://discord.c99.nl/widget/theme-3/894794517079793704.png)
+![](https://discord.c99.nl/widget/theme-2/894794517079793704.png)
 
 # languages i know fluently!
 <br>
